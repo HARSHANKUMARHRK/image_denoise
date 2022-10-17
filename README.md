@@ -21,7 +21,7 @@ Given a noisy image 'y' the model will predict residual image 'R' and clean imag
 
 x=y-R
 
-Research paper : https://arxiv.org/pdf/1608.03981v1.pdf
+
 
 2) Using RIDNET model :
 
@@ -33,7 +33,7 @@ Architecture of the model:
 
 Thsi model is composed of three main modules i.e. feature extraction, feature learning residual on the residual module, and reconstruction, as shown in Figure .
 
-Research paper : https://arxiv.org/pdf/1904.07396.pdf
+
 
 
 ## Dataset: 
