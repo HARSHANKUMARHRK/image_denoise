@@ -43,15 +43,15 @@ def models():
 
     lottie_hello = load_lottieurl("https://assets10.lottiefiles.com/private_files/lf30_dmituz7c.json")
     st_lottie(
-    lottie_hello,
-    speed=1,
-    reverse=False,
-    loop=True,
-    quality="high", # medium ; high
-    
-    height=None,
-    width=None,
-    key=None,
+      lottie_hello,
+      speed=1,
+      reverse=False,
+      loop=True,
+      quality="high", # medium ; high
+      
+      height=None,
+      width=None,
+      key=None,
 )
 
         
