@@ -2,8 +2,6 @@ tensorflow-cpu
 numpy==1.19.5
 streamlit==0.80.0
 opencv-python-headless
-<<<<<<< HEAD
-=======
 streamlit_option_menu
 streamlit_lottie
->>>>>>> 722859ac614c57ac113d48ac71c94a95409fd892
+
