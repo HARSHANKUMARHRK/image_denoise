@@ -1,4 +1,4 @@
-tensorflow-cpu
+tensorflow
 numpy==1.19.5
 streamlit==0.80.0
 opencv-python-headless
