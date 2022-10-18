@@ -4,4 +4,5 @@ streamlit==0.80.0
 opencv-python-headless
 streamlit_option_menu
 streamlit_lottie
+click
 
