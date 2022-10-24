@@ -70,7 +70,7 @@ def models():
         prediction_ui(gt)
           
     if choice=="Use Existing Images":
-    #image
+    #image denoise
       image_file_chosen = st.sidebar.selectbox('Select an existing image:', get_list_of_images(),10)
       
       if image_file_chosen:
